@@ -31,7 +31,7 @@ if ($result->num_rows > 0) {
 </head>
 
 <body>
-    <a href="addUser.php">Create Your Id here</a> <br><br>
+    <a href="index.php">Create Your Id here</a> <br><br>
     <div class="container table-responsive">
         <table class="table table-hover  table-bordered">
             <thead>
