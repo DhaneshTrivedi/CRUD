@@ -1,3 +1,5 @@
+
+<?php
 <html>
     <body>
         <form action="data.php" method="post">
@@ -9,3 +11,4 @@
 
 </body>
     </html>
+                ?>
